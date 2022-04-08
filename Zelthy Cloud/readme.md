@@ -1,6 +1,6 @@
 # Welcome to Zelthy Cloud's App Development Manual
 
-**You can think of environment on Zelthy Cloud as a folder, you can think of on app in your Zelthy Cloud's environment as a folder. In fact, most objects within Zelthy Cloud can be imagined as a folder!**
+**You can think of an environment on Zelthy Cloud as a folder, you can think of an app in your Zelthy Cloud's environment as a folder. In fact, most objects within Zelthy Cloud can be imagined as a folder!**
 
 ![alt text](Assets/new_app.png "Title")
 change image: empty zelthy cloud with just readme.md file
