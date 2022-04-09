@@ -17,7 +17,6 @@ Zelthy also comes with dataclasses presets for specific use cases. These presets
 
 Click on Setup to start creating your dataclass...
 
-<Img>
-
+![alt text](/Zelthy%20Cloud/Assets/ZelCloud_InsideDB.png "Title")
 
 [Next "User Roles"](../Workflows/User%20Role%201/role_setup.md)
