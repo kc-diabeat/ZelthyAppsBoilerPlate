@@ -7,9 +7,6 @@ Every app in Zelthy has its own database, supported as schema on a Postgres data
 
 Dataclasses have an advantage that the don't require any migrations into the underlying database and are extremely flexible to customize to the context of the use case, while leveraging the advantages of a relational database.
 
-
-<Image for dataclasses>
-
 Zelthy also comes with dataclasses presets for specific use cases. These presets can improve your team's app development timelines to a great extent, considering that the presets already represents the solutioning for the specific use case and can still be further customized.
 
 
