@@ -10,4 +10,4 @@ To build apps in Zelthy Cloud, you need to create your environment. Let's create
 
 Well, nothing much happened and expectedly so. folder creation in itself is just like reserving your preferred name for the object. Once you are inside the environment you just created, you can complete the setup and launch the actual environment.
 
-Already inside your environment - Click here<add link to the App Setup's manual>
+Already inside your environment - [click here](Environment%201/env_setup.md)
