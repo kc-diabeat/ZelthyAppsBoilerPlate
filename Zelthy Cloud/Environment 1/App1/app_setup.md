@@ -14,7 +14,7 @@ Your new app will be launched and the status would be available in Setup.
 > An app in Zelthy Cloud is a set of workflows divided among a set of User Roles. The 
 > workflows are supported by a data storage mechanism.
 
-Accordingly, when the app is successfully it will have two boilerplate folders:
+Accordingly, when the app is successfully launched it will have two boilerplate folders:
 - Database
 - Workflows
 
