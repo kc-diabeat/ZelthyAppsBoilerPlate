@@ -2,8 +2,8 @@
 
 **You can think of an environment on Zelthy Cloud as a folder, you can think of an app in your Zelthy Cloud's environment as a folder. In fact, most objects within Zelthy Cloud can be imagined as a folder!**
 
-
-![alt text](Assets/new_app.png "Title")
+<br>
+![alt text](Assets/ZelCloud_Environment.png "Title")
 
 
 To build apps in Zelthy Cloud, you need to create your environment. Let's create your first folder i.e. your first environment on which you can host apps. Right click on your console and create your new environment... 
