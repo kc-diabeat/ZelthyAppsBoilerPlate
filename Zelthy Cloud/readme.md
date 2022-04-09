@@ -1,8 +1,9 @@
 ## Welcome to Zelthy Cloud's App Development Manual
+<br>  
+You can think of an environment on Zelthy Cloud as a folder, you can think of an app in your Zelthy Cloud's environment as a folder. In fact, most objects within Zelthy Cloud can be imagined as a folder!
 
-**You can think of an environment on Zelthy Cloud as a folder, you can think of an app in your Zelthy Cloud's environment as a folder. In fact, most objects within Zelthy Cloud can be imagined as a folder!**
+<br><br>
 
-<br>
 ![alt text](Assets/ZelCloud_Environment.png "Title")
 
 
