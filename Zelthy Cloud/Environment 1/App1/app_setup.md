@@ -28,4 +28,4 @@ Accordingly, when the app is successfully it will have two boilerplate folders:
 
 < Image of App Level with Workflows, Database & Setup>
 
-> Next "Understanding Database"
+[Next "Understanding Database"](Database/database_setup.md)
