@@ -1,6 +1,10 @@
-## Users Roles
+## Pages
 
-Apps in Zelthy
+A page in Zelthy is the smallest building block of an App. It represents a unit of Workflow. Pages can be of two types:
+- HTML
+- API 
+
+Pages have their own data source 
 
 
 <Image for dataclasses>
