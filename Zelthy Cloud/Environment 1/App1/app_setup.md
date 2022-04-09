@@ -4,7 +4,6 @@ Now that the environment is all ready, you can go inside it to create your first
 
 
 ![alt text](/Zelthy%20Cloud/Assets/ZelCloud_AppCreated.png "Title")
-<Image for creating app in Environment>
 
 
 Go inside the app folder and start setting up your app by clicking on Setup.
