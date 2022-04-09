@@ -10,7 +10,7 @@ Zelthy Cloud is a quick and optimized solution for hosting Zelthy Environments, 
 
 In case you have not yet started your setup, click on the setup.zc file and get started with creating your first environment.
 
-![alt text](Assets/new_app.png "Title")
+![alt text](Assets/ZelCloud_InsideEnvironment.png "Inside Environment")
 
 
 Your new environment will be launched and the status would be available in env_setup.zc.
